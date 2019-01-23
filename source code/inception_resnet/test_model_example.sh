@@ -1,0 +1,1 @@
+python3 test_model.py --model_loc=D:\scripts\model\0606VOC --model_name=model_epoch129.ckpt --num_class=20 --input_directory_loc=D:\scripts\clean_data\clean_train_data --prediction_batch_size=8 --input_size=227 --model_type=alexnet --output_label_loc=D:\scripts\clean_data\alexnet_voc_output.txt
